@@ -1,0 +1,50 @@
+_repo: Bread-Overhead_22579
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
+description: '"Bread Overhead" is a story Fritz Leiber could have written to send
+  up today''s bewildering bread aisle -- all those claims of low-cal and low-low-carb.
+  In fact, the story probably reads better now than it did in 1958, back when the
+  choice came down to white or whole wheat. Leiber slyly imagines a near-future when
+  giant machines not only harvest the wheat field, but grind flour and bake bread
+  on the spot -- the ultimate in big farming. In this toasted tomorrow, the highly-mechanized
+  Puffy Products is bent on producing the supremely lightest loaf. The story is what
+  happens if bread isn''t just airy, but pumped full of lighter-than-air helium. Leiber
+  (Ships to the Stars) didn''t often bake up such a souffle of spoof, but he''s a
+  master in the kitchen. And "Bread Overhead" has just enough to say about human nature
+  to be filling, besides.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Business -- Fiction'
+- !lcc 'PS'
+title: Bread Overhead
+url: http://www.gutenberg.org/ebooks/22579
